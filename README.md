@@ -22,6 +22,8 @@ High-grade loans (Grade A) are safe but offer low returns (approx. 5-7%). Lower-
 ### 1. The "High-Yield" Strategy
 Our analysis revealed that blindly investing in High-Yield loans leads to losses. However, by using our algorithm to **selectively filter borrowers within Grades C, D, and E**, we projected a **Net Annualized Return (NAR) of 9-11%**, significantly outperforming the passive investor average of 4-6%.
 
+![Projected Returns and Revenue](assets/images/lending_club_projected_returns.png)
+
 ### 2. The "Data Gap" Reality
 We tested Deep Learning (Neural Networks) and SVM classifiers against the industry baseline.
 * **Our Result:** Test set AUROC of **0.689**.
